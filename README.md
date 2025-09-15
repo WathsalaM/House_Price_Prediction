@@ -143,16 +143,7 @@ curl -X POST "http://127.0.0.1:8000/predict" \
 * numpy
 * pydantic
 
-(Already listed in `requirements.txt`)
 
----
 
-## 📜 License
 
-This project is licensed under the MIT License.
 
----
-
-⚡ Now when someone opens your repo, they’ll know exactly how to run and test it.
-
-👉 Do you want me to also **generate the `requirements.txt` file** for your project so your README.md instructions will work smoothly?
